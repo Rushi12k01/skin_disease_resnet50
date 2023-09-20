@@ -1,6 +1,6 @@
 # skin_disease_resnet50
 
-class names
+class names = 
 ['Acne and Rosacea Photos',
  'Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions',
  'Atopic Dermatitis Photos',
